@@ -22,9 +22,6 @@ I'm a passionate and self-motivated Informatics Engineering student from Syria w
 
 [![Echo Sax End](https://ytcards.demolab.com/?id=yBci2hmRHUA&title=Echo+Sax+End+-+[First+Half+3-Hour+Loop]&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Echo Sax End")](https://youtu.be/yBci2hmRHUA) [![LA LA LAND Theme](https://ytcards.demolab.com/?id=2ApM9JESNIo&title=LA+LA+LAND+(Mia+&+Sebastian's+Theme)&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LA LA LAND Theme")](https://youtu.be/2ApM9JESNIo) [![ABBA - The Winner Takes It All](https://ytcards.demolab.com/?id=92cwKCU8Z5c&title=ABBA+-+The+Winner+Takes+It+All&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ABBA - The Winner Takes It All")](https://youtu.be/92cwKCU8Z5c)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=CodeFather-xe&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ### ✍️ Random Dev Quote
 
