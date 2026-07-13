@@ -1,29 +1,176 @@
-# 👋 Hi, I’m @CodeFather_xe
+<div align="center">
 
-I'm a passionate and self-motivated Informatics Engineering student from Syria with a strong focus on mobile app development. I love turning complex problems into beautiful and intuitive mobile applications using **Dart** and **Flutter**.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:02569B,70:0175C2,100:38BDF8&height=285&section=header&text=Ahmed%20Al-Matroud&fontSize=50&fontAlignY=34&animation=fadeIn&fontColor=ffffff&desc=Mobile%20Engineer%20%E2%80%A2%20Linux%20Enthusiast%20%E2%80%A2%20Tech%20Operations%20Lead&descAlignY=54&descSize=17" alt="Ahmed Al-Matroud" />
 
-- 📱 I’m currently building and improving my skills as a **Mobile App Developer**.
-- 🎨 As a **Graphic Designer**, I'm expanding my toolkit and have recently started creating designs with **Figma**.
-- 🐧 I have a deep expertise in **Linux** environments and **Bash scripting**.
-- 🛠️ At my university, I supervise the **Technical Support Department**, helping my peers solve their technical challenges.
-- 🌱 I’m a lifelong learner, always excited to dive into new technologies and programming concepts.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=60&lines=Flutter+%26+Dart+Developer;Building+cinematic+cross-platform+experiences;Linux+%2F+DevOps+%2F+Automation+Enthusiast;Tech+Operations+Lead+%40+Kernel+Crew;Turning+complex+ideas+into+useful+products" alt="Typing introduction" />
 
-## 🌐 Socials:
+<p>
+  <img src="https://komarev.com/ghpvc/?username=CodeFather-xe&label=PROFILE+VIEWS&color=02569B&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/CodeFather-xe?tab=followers"><img src="https://img.shields.io/github/followers/CodeFather-xe?label=FOLLOWERS&style=for-the-badge&color=0175C2&labelColor=0d1117" alt="Followers" /></a>
+  <a href="https://github.com/CodeFather-xe?tab=repositories"><img src="https://img.shields.io/badge/FOCUS-FLUTTER%20%26%20SYSTEMS-38BDF8?style=for-the-badge&labelColor=0d1117" alt="Focus" /></a>
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ADZqukS7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_codefather/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-al-matroud-370904266/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CodeFather-xe) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/CodeFather_xe)
+### Building software that feels as good as it works
 
+<!-- Add assets/profile-showcase.gif, then remove this comment block.
+<a href="https://youtube.com/@CodeFather-xe">
+  <img src="./assets/profile-showcase.gif" width="900" alt="Development showcase" />
+</a>
+-->
 
-# 💻 Tech Stack:
+</div>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+## 👨‍💻 About Me
 
+I'm **Ahmed Al-Matroud**, an Informatics Engineering student at **Damascus University** and a mobile engineer focused on polished, scalable, user-friendly products.
 
-### 🎬 My Favorite Videos:
+My work lives at the intersection of **mobile engineering, visual design, Linux automation, and technical operations**. I turn complex requirements into reliable software that is memorable on screen and maintainable behind the scenes.
 
-[![Echo Sax End](https://ytcards.demolab.com/?id=yBci2hmRHUA&title=Echo+Sax+End+-+[First+Half+3-Hour+Loop]&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Echo Sax End")](https://youtu.be/yBci2hmRHUA) [![LA LA LAND Theme](https://ytcards.demolab.com/?id=2ApM9JESNIo&title=LA+LA+LAND+(Mia+&+Sebastian's+Theme)&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LA LA LAND Theme")](https://youtu.be/2ApM9JESNIo) [![ABBA - The Winner Takes It All](https://ytcards.demolab.com/?id=92cwKCU8Z5c&title=ABBA+-+The+Winner+Takes+It+All&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ABBA - The Winner Takes It All")](https://youtu.be/92cwKCU8Z5c)
+```yaml
+name: Ahmed Al-Matroud
+username: CodeFather-xe
+location: Damascus, Syria
 
+roles:
+  - Mobile Developer
+  - Tech Operations Lead
+  - UI/UX Enthusiast
+  - Linux & Automation Enthusiast
 
-### ✍️ Random Dev Quote
+currently_building:
+  - Cross-platform applications with Flutter and Dart
+  - Clean and scalable mobile architectures
+  - Automated Linux and deployment workflows
+  - Technical infrastructure for Kernel Crew
+```
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🎯 Current Focus
 
+- 📱 Developing production-ready Flutter applications
+- 🧱 Applying Clean Architecture and scalable state management
+- 🎨 Creating cinematic interfaces with thoughtful motion and UX
+- 🐧 Automating Linux workflows with Bash and infrastructure tools
+- 🚀 Managing technical operations and deployments for Kernel Crew
+- 🤝 Supporting university students through technical initiatives
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+### Mobile & Programming
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,html,css,js&theme=dark" alt="Programming technologies" />
+
+### Backend, Infrastructure & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,firebase,postgres,docker,ansible,postman&theme=dark" alt="Infrastructure technologies" />
+
+### Design & Creative Tools
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&theme=dark" alt="Design tools" />
+
+</div>
+
+## ⚡ Live Engineering Metrics
+
+<div align="center">
+
+<img src="./assets/github-metrics.svg" width="96%" alt="GitHub metrics generated by Actions" />
+
+<br><br>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=CodeFather-xe&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=0175C2&text_color=c9d1d9" alt="GitHub statistics" />
+<img height="175" src="https://streak-stats.demolab.com?user=CodeFather-xe&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=0175C2&currStreakLabel=38BDF8" alt="GitHub streak" />
+
+<br><br>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeFather-xe&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=c9d1d9" alt="Most used languages" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeFather-xe&theme=tokyonight&utcOffset=3" alt="Productive time" />
+
+<br><br>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeFather-xe&bg_color=00000000&color=c9d1d9&line=38BDF8&point=0175C2&area=true&area_color=02569B&hide_border=true" alt="Contribution activity" />
+
+<img src="https://raw.githubusercontent.com/CodeFather-xe/CodeFather-xe/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+
+</div>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Delni.co
+
+A multi-category Flutter platform for properties, vehicles, services, urgent assistance, maps, reviews, analytics, and saved listings.
+
+`Flutter` `Dart` `BLoC` `Dio` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏫 Takamul School
+
+A role-aware school application for teachers, students, and parents with schedules, announcements, notifications, profiles, and real-time chat.
+
+`Flutter` `Dart` `Socket.IO` `REST API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 SherLog Bot
+
+A Telegram bot organizing engineering resources, community rules, scripts, and automated notifications.
+
+`Python` `Telegram API` `Azure`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐧 Kernel Crew Infrastructure
+
+Linux infrastructure, deployments, automation scripts, technical support systems, and gaming tournament operations.
+
+`Linux` `Bash` `Ansible` `DevOps`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/CodeFather-xe?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-02569B?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" /></a>
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=CodeFather-xe&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+</div>
+
+## 🎧 Coding Soundtrack
+
+<div align="center">
+<a href="https://youtu.be/yBci2hmRHUA"><img src="https://ytcards.demolab.com/?id=yBci2hmRHUA&title=Echo+Sax+End&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%2338BDF8&max_title_lines=1&width=250&border_radius=8" alt="Echo Sax End" /></a>
+<a href="https://youtu.be/2ApM9JESNIo"><img src="https://ytcards.demolab.com/?id=2ApM9JESNIo&title=Mia+%26+Sebastian's+Theme&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%2338BDF8&max_title_lines=1&width=250&border_radius=8" alt="Mia and Sebastian's Theme" /></a>
+<a href="https://youtu.be/92cwKCU8Z5c"><img src="https://ytcards.demolab.com/?id=92cwKCU8Z5c&title=The+Winner+Takes+It+All&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%2338BDF8&max_title_lines=1&width=250&border_radius=8" alt="The Winner Takes It All" /></a>
+</div>
+
+## 🤝 Let's Build Something Meaningful
+
+<div align="center">
+<a href="https://t.me/CodeFather_xe"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://www.linkedin.com/in/ahmed-al-matroud-370904266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/_codefather/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.youtube.com/@CodeFather-xe"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://discord.gg/ADZqukS7"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+
+<br><br>
+
+### “I don't just write code — I engineer experiences.”
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:02569B,70:0175C2,100:38BDF8&height=130&section=footer" alt="Footer" />
