@@ -1,13 +1,14 @@
+````markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:02569B,70:0175C2,100:38BDF8&height=285&section=header&text=Ahmed%20Al-Matroud&fontSize=50&fontAlignY=34&animation=fadeIn&fontColor=ffffff&desc=Mobile%20Engineer%20%E2%80%A2%20Linux%20Enthusiast%20%E2%80%A2%20Tech%20Operations%20Lead&descAlignY=54&descSize=17" alt="Ahmed Al-Matroud" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0D0D0D,70:B8860B,100:F5C542&height=285&section=header&text=Ahmed%20Al-Matroud&fontSize=50&fontAlignY=34&animation=fadeIn&fontColor=ffffff&desc=Mobile%20Engineer%20%E2%80%A2%20Linux%20Enthusiast%20%E2%80%A2%20Tech%20Operations%20Lead&descAlignY=54&descSize=17" alt="Ahmed Al-Matroud" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=60&lines=Flutter+%26+Dart+Developer;Building+cinematic+cross-platform+experiences;Linux+%2F+DevOps+%2F+Automation+Enthusiast;Tech+Operations+Lead+%40+Kernel+Crew;Turning+complex+ideas+into+useful+products" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F5C542&center=true&vCenter=true&repeat=true&width=760&height=60&lines=Flutter+%26+Dart+Developer;Building+cinematic+cross-platform+experiences;Linux+%2F+DevOps+%2F+Automation+Enthusiast;Tech+Operations+Lead+%40+Kernel+Crew;Turning+complex+ideas+into+useful+products" alt="Typing introduction" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=CodeFather-xe&label=PROFILE+VIEWS&color=02569B&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/CodeFather-xe?tab=followers"><img src="https://img.shields.io/github/followers/CodeFather-xe?label=FOLLOWERS&style=for-the-badge&color=0175C2&labelColor=0d1117" alt="Followers" /></a>
-  <a href="https://github.com/CodeFather-xe?tab=repositories"><img src="https://img.shields.io/badge/FOCUS-FLUTTER%20%26%20SYSTEMS-38BDF8?style=for-the-badge&labelColor=0d1117" alt="Focus" /></a>
+  <img src="https://komarev.com/ghpvc/?username=CodeFather-xe&label=PROFILE+VIEWS&color=B8860B&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/CodeFather-xe?tab=followers"><img src="https://img.shields.io/github/followers/CodeFather-xe?label=FOLLOWERS&style=for-the-badge&color=D4AF37&labelColor=000000" alt="Followers" /></a>
+  <a href="https://github.com/CodeFather-xe?tab=repositories"><img src="https://img.shields.io/badge/FOCUS-FLUTTER%20%26%20SYSTEMS-B8860B?style=for-the-badge&labelColor=000000" alt="Focus" /></a>
 </p>
 
 ### Building software that feels as good as it works
@@ -42,16 +43,16 @@ currently_building:
   - Clean and scalable mobile architectures
   - Automated Linux and deployment workflows
   - Technical infrastructure for Kernel Crew
-```
+````
 
 ## 🎯 Current Focus
 
-- 📱 Developing production-ready Flutter applications
-- 🧱 Applying Clean Architecture and scalable state management
-- 🎨 Creating cinematic interfaces with thoughtful motion and UX
-- 🐧 Automating Linux workflows with Bash and infrastructure tools
-- 🚀 Managing technical operations and deployments for Kernel Crew
-- 🤝 Supporting university students through technical initiatives
+* 📱 Developing production-ready Flutter applications
+* 🧱 Applying Clean Architecture and scalable state management
+* 🎨 Creating cinematic interfaces with thoughtful motion and UX
+* 🐧 Automating Linux workflows with Bash and infrastructure tools
+* 🚀 Managing technical operations and deployments for Kernel Crew
+* 🤝 Supporting university students through technical initiatives
 
 ## 🧰 Tech Arsenal
 
@@ -79,17 +80,19 @@ currently_building:
 
 <br><br>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=CodeFather-xe&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=0175C2&text_color=c9d1d9" alt="GitHub statistics" />
-<img height="175" src="https://streak-stats.demolab.com?user=CodeFather-xe&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=0175C2&currStreakLabel=38BDF8" alt="GitHub streak" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=CodeFather-xe&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent&title_color=F5C542&icon_color=D4AF37&text_color=e6e6e6" alt="GitHub statistics" />
+
+<img height="175" src="https://streak-stats.demolab.com?user=CodeFather-xe&theme=dark&hide_border=true&background=00000000&ring=F5C542&fire=D4AF37&currStreakLabel=F5C542&sideLabels=e6e6e6&dates=9e9e9e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 
 <br><br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeFather-xe&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=c9d1d9" alt="Most used languages" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeFather-xe&theme=tokyonight&utcOffset=3" alt="Productive time" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeFather-xe&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=F5C542&text_color=e6e6e6" alt="Most used languages" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeFather-xe&theme=transparent&utcOffset=3" alt="Productive time" />
 
 <br><br>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeFather-xe&bg_color=00000000&color=c9d1d9&line=38BDF8&point=0175C2&area=true&area_color=02569B&hide_border=true" alt="Contribution activity" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeFather-xe&bg_color=00000000&color=e6e6e6&line=F5C542&point=D4AF37&area=true&area_color=B8860B&hide_border=true" alt="Contribution activity" />
 
 <img src="https://raw.githubusercontent.com/CodeFather-xe/CodeFather-xe/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
@@ -141,31 +144,40 @@ Linux infrastructure, deployments, automation scripts, technical support systems
 </table>
 
 <div align="center">
-<a href="https://github.com/CodeFather-xe?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-02569B?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" /></a>
+<a href="https://github.com/CodeFather-xe?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-B8860B?style=for-the-badge&logo=github&logoColor=black" alt="Explore all projects" /></a>
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=CodeFather-xe&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=CodeFather-xe&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 </div>
 
 ## 🎧 Coding Soundtrack
 
 <div align="center">
-<a href="https://youtu.be/yBci2hmRHUA"><img src="https://ytcards.demolab.com/?id=yBci2hmRHUA&title=Echo+Sax+End&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%2338BDF8&max_title_lines=1&width=250&border_radius=8" alt="Echo Sax End" /></a>
-<a href="https://youtu.be/2ApM9JESNIo"><img src="https://ytcards.demolab.com/?id=2ApM9JESNIo&title=Mia+%26+Sebastian's+Theme&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%2338BDF8&max_title_lines=1&width=250&border_radius=8" alt="Mia and Sebastian's Theme" /></a>
-<a href="https://youtu.be/92cwKCU8Z5c"><img src="https://ytcards.demolab.com/?id=92cwKCU8Z5c&title=The+Winner+Takes+It+All&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%2338BDF8&max_title_lines=1&width=250&border_radius=8" alt="The Winner Takes It All" /></a>
+
+<a href="https://youtu.be/yBci2hmRHUA"><img src="https://ytcards.demolab.com/?id=yBci2hmRHUA&title=Echo+Sax+End&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23F5C542&max_title_lines=1&width=250&border_radius=8" alt="Echo Sax End" /></a>
+
+<a href="https://youtu.be/2ApM9JESNIo"><img src="https://ytcards.demolab.com/?id=2ApM9JESNIo&title=Mia+%26+Sebastian's+Theme&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23F5C542&max_title_lines=1&width=250&border_radius=8" alt="Mia and Sebastian's Theme" /></a>
+
+<a href="https://youtu.be/92cwKCU8Z5c"><img src="https://ytcards.demolab.com/?id=92cwKCU8Z5c&title=The+Winner+Takes+It+All&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23F5C542&max_title_lines=1&width=250&border_radius=8" alt="The Winner Takes It All" /></a>
+
 </div>
 
 ## 🤝 Let's Build Something Meaningful
 
 <div align="center">
-<a href="https://t.me/CodeFather_xe"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://www.linkedin.com/in/ahmed-al-matroud-370904266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/_codefather/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.youtube.com/@CodeFather-xe"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://discord.gg/ADZqukS7"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+
+<a href="https://t.me/CodeFather_xe"><img src="https://img.shields.io/badge/Telegram-B8860B?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram" /></a>
+
+<a href="https://www.linkedin.com/in/ahmed-al-matroud-370904266/"><img src="https://img.shields.io/badge/LinkedIn-B8860B?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
+
+<a href="https://www.instagram.com/_codefather/"><img src="https://img.shields.io/badge/Instagram-B8860B?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" /></a>
+
+<a href="https://www.youtube.com/@CodeFather-xe"><img src="https://img.shields.io/badge/YouTube-B8860B?style=for-the-badge&logo=youtube&logoColor=black" alt="YouTube" /></a>
+
+<a href="https://discord.gg/ADZqukS7"><img src="https://img.shields.io/badge/Discord-B8860B?style=for-the-badge&logo=discord&logoColor=black" alt="Discord" /></a>
 
 <br><br>
 
@@ -173,4 +185,5 @@ Linux infrastructure, deployments, automation scripts, technical support systems
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:02569B,70:0175C2,100:38BDF8&height=130&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0D0D0D,70:B8860B,100:F5C542&height=130&section=footer" alt="Footer" />
+```
