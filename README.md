@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0D0D0D,70:B8860B,100:F5C542&height=285&section=header&text=Ahmed%20Al-Matroud&fontSize=50&fontAlignY=34&animation=fadeIn&fontColor=ffffff&desc=Mobile%20Engineer%20%E2%80%A2%20Linux%20Enthusiast%20%E2%80%A2%20Tech%20Operations%20Lead&descAlignY=54&descSize=17" alt="Ahmed Al-Matroud" />
@@ -186,4 +186,3 @@ Linux infrastructure, deployments, automation scripts, technical support systems
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0D0D0D,70:B8860B,100:F5C542&height=130&section=footer" alt="Footer" />
-```
