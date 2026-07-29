@@ -153,6 +153,7 @@ Linux infrastructure, deployments, automation scripts, technical support systems
 <img width="95%" src="https://github-profile-trophy.vercel.app/?username=CodeFather-xe&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 </div>
 
+<!--
 ## 🎧 Coding Soundtrack
 
 <div align="center">
@@ -163,7 +164,7 @@ Linux infrastructure, deployments, automation scripts, technical support systems
 
 <a href="https://youtu.be/92cwKCU8Z5c"><img src="https://ytcards.demolab.com/?id=92cwKCU8Z5c&title=The+Winner+Takes+It+All&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23F5C542&max_title_lines=1&width=250&border_radius=8" alt="The Winner Takes It All" /></a>
 
-</div>
+</div>-->
 
 ## 🤝 Let's Build Something Meaningful
 
